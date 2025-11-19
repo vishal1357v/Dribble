@@ -113,8 +113,7 @@ Publish the website in the LocalHost.
 
 
 ## OUTPUT:
-![alt text](../image.png)
+![](image.png)
 
-
-## RESULT:
+# RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
